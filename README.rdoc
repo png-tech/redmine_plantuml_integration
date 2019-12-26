@@ -1,0 +1,4 @@
+= redmine_plantuml_intragration
+
+Integation between redmine & plantuml server.
+Adding integration with plantuml online server into wiki/issue.

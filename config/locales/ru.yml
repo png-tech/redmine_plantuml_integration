@@ -1,0 +1,4 @@
+# Русский язык
+ru:
+  plugin_settings: "Настройки интеграции с сервером PlantUml"
+  plantuml_server_url: "Адрес PlantUml сервера"
